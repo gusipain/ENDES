@@ -7,7 +7,7 @@
         <hora_regreso>21:00</hora_regreso>
         <lugar_salida>Puerta principal del instituto</lugar_salida>
         <lugar_regreso>Puerta principal del instituto</lugar_regreso>
-        <Precio_por_persona>35.00</Precio_por_persona> // Incluye transporte y alquiler de material
+        <Precio_por_persona>35.00</Precio_por_persona> <!-- Incluye transporte y alquiler de material -->
         <profesorado_responsable>Carmen Vidal y Jorge Molina</profesorado_responsable>
     </informacion_general>
     <material_recomendado>

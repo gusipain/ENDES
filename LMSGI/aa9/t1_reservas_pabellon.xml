@@ -18,7 +18,7 @@
         <pista>2</pista>
         <grupo>Voleibol cadete</grupo>
         <responsable>Luis Romero</responsable>
-        <observaciones></observaciones> // no hay observaciones adicionales para esta reserva.
+        <observaciones></observaciones> <!-- no hay observaciones adicionales para esta reserva. -->
     </reserva>
      <reserva="3">
         <id_reserva>R-103</id_reserva>

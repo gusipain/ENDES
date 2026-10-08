@@ -2,7 +2,7 @@
 <liga_escolar_de_baloncesto="2026-2027">
     <nota>Clasificación tras la jornada 4.</nota>
     <actualizado>2026-08-03</actualizado>
-    <clasificacion> // El orden de los equipos es el orden de la clasificación, siendo el primero el que más puntos tiene y el último el que menos puntos tiene.
+    <clasificacion> <!-- El orden de los equipos es el orden de la clasificación, siendo el primero el que más puntos tiene y el último el que menos puntos tiene. -->
         <equipo="1">
             <nombre>IES Guadalquivir</nombre>
             <puntos>8</puntos>
