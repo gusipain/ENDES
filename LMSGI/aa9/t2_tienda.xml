@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>,
+<tienda="Deportes Ribera">
+    <actualizado>2026-10-01</actualizado>
+<producto="1">
+    <nombre>Zapatillas de running</nombre>
+    <precio>79.95</precio>
+    <stock>true</stock>
+    <tallas>
+        <talla>40</talla>
+        <talla>41</talla>
+        <talla>42</talla>
+        <talla>43</talla>
+    </tallas>
+    <provedor>
+        <nombre>Sport & Co</nombre>
+        <pais>España</pais>
+        <descuento>null</descuento>
+    </provedor>
+</producto>
+<producto="2">
+    <nombre>Raqueta de pádel</nombre>
+    <precio>120.0</precio>
+    <stock>false</stock>
+    <tallas> null </tallas>
+    <provedor>
+        <nombre>PadelPro</nombre>
+        <pais>Portugal</pais>
+        <descuento>15%</descuento>
+    </provedor>
+    <2ºmano>true</2ºmano>
+</producto>
+<producto="3">
+    <nombre>Balón de futból</nombre>
+    <precio>24.5</precio>
+    <stock>true</stock>
+    <tallas>null</tallas>
+    <provedor>
+        <nombre>Sport & Co</nombre>
+        <pais>España</pais>
+        <descuento>null</descuento>
+    </provedor>
+</producto>
+</tienda>
