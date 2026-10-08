@@ -21,7 +21,7 @@
     <nombre>Raqueta de pádel</nombre>
     <precio>120.0</precio>
     <stock>false</stock>
-    <tallas> null </tallas>
+    <tallas></tallas>
     <provedor>
         <nombre>PadelPro</nombre>
         <pais>Portugal</pais>
@@ -33,7 +33,7 @@
     <nombre>Balón de futból</nombre>
     <precio>24.5</precio>
     <stock>true</stock>
-    <tallas>null</tallas>
+    <tallas></tallas>
     <provedor>
         <nombre>Sport & Co</nombre>
         <pais>España</pais>
