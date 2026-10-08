@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>,
+<escursion_sierra_nevada>
+    <informacion_general>
+        <Grupos>1º DAW y 1º ASIR</Grupos>
+        <fecha>2026-11-12</fecha>
+        <hora_salida>07:30</hora_salida>
+        <hora_regreso>21:00</hora_regreso>
+        <lugar_salida>Puerta principal del instituto</lugar_salida>
+        <lugar_regreso>Puerta principal del instituto</lugar_regreso>
+        <Precio_por_persona>35.00</Precio_por_persona> // Incluye transporte y alquiler de material
+        <profesorado_responsable>Carmen Vidal y Jorge Molina</profesorado_responsable>
+    </informacion_general>
+    <material_recomendado>
+        <material>Ropa de abrigo e impermeable</material>
+        <material>Guantes y gafas de sol</material>
+        <material>Comida para elmediodía</material>
+    </material_recomendado>
+    <autorizaciones>Firmadas se entregan antes del 5 de noviembre.</autorizaciones>
+    <inscripcion_online>
+    <instrucciones numero="17">Para la inscripción online, el alumnado debe pegar este código en su página del aula virtual:</instrucciones>
+    <codigo_html numero="18">
+        <enlace url="https://aula.ejemplo.es/excursion">
+            <parametros>
+                <parametro nombre="curso">1</parametro>
+                <parametro nombre="grupo">daw</parametro>
+            </parametros>
+            <texto_visible>Inscribirme</texto_visible>
+        </enlace>
+    </codigo_html>
+    </inscripcion_online>
+</escursion_sierra_nevada>
