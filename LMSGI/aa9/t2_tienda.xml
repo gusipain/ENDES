@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
-<tienda_nombre_="Deportes_Ribera">
+<tienda nombre="Deportes_Ribera">
     <actualizado>2026-10-01</actualizado>
-<producto id="1">
-    <nombre>Zapatillas de running</nombre>
-    <precio>79.95</precio>
-    <stock>true</stock>
-    <tallas>
-        <talla>40</talla>
-        <talla>41</talla>
-        <talla>42</talla>
-        <talla>43</talla>
-    </tallas>
-    <proveedor>
-        <nombre>Sport & Co</nombre>
-        <pais>España</pais>
-        <descuento>null</descuento> <!--Significa que no hay descuento para este producto.-->
-    </proveedor>
-</producto>
-<producto_id="2">
-    <nombre>Raqueta de pádel</nombre>
-    <precio>120.0</precio>
-    <stock>false</stock>
-    <tallas></tallas>
-    <proveedor>
-        <nombre>PadelPro</nombre>
-        <pais>Portugal</pais>
-        <descuento>15%</descuento>
-    </proveedor>
-    <segunda_mano>true</segunda_mano>
-</producto>
-<producto_id="3">
-    <nombre>Balón de fútbol</nombre>
-    <precio>24.5</precio>
-    <stock>true</stock>
-    <tallas></tallas>
-    <proveedor>
-        <nombre>Sport & Co</nombre>
-        <pais>España</pais>
-        <descuento>null</descuento>
-    </proveedor>
-</producto>
+    <producto id="1">
+        <nombre>Zapatillas de running</nombre>
+        <precio>79.95</precio>
+        <stock>true</stock>
+        <tallas>
+            <talla>40</talla>
+            <talla>41</talla>
+            <talla>42</talla>
+            <talla>43</talla>
+        </tallas>
+        <proveedor>
+            <nombre>Sport &amp; Co</nombre>
+            <pais>España</pais>
+            <descuento>null</descuento> <!--Significa que no hay descuento-->
+        </proveedor>
+    </producto>
+    <producto id="2">
+        <nombre>Raqueta de pádel</nombre>
+        <precio>120.0</precio>
+        <stock>false</stock>
+        <tallas></tallas>
+        <proveedor>
+            <nombre>PadelPro</nombre>
+            <pais>Portugal</pais>
+            <descuento>15%</descuento>
+        </proveedor>
+        <segunda_mano>true</segunda_mano>
+    </producto>
+    <producto id="3">
+        <nombre>Balón de fútbol</nombre>
+        <precio>24.5</precio>
+        <stock>true</stock>
+        <tallas></tallas>
+        <proveedor>
+            <nombre>Sport &amp; Co</nombre>
+            <pais>España</pais>
+            <descuento>null</descuento>
+        </proveedor>
+    </producto>
 </tienda>
