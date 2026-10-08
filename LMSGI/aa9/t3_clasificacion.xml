@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>,
+<liga_escolar_de_baloncesto="2026-2027">
+    <nota>Clasificación tras la jornada 4.</nota>
+    <actualizado>2026-08-03</actualizado>
+    <clasificacion> // El orden de los equipos es el orden de la clasificación, siendo el primero el que más puntos tiene y el último el que menos puntos tiene.
+        <equipo="1">
+            <nombre>IES Guadalquivir</nombre>
+            <puntos>8</puntos>
+            <partidos_jugados>4</partidos_jugados>
+            <partidos_ganados>4</partidos_ganados>
+            <partidos_perdidos>0</partidos_perdidos>
+        </equipo>
+        <equipo="2">
+            <nombre>CD Olivares</nombre>
+            <puntos>7</puntos>
+            <partidos_jugados>4</partidos_jugados>
+            <partidos_ganados>3</partidos_ganados>
+            <partidos_perdidos>1</partidos_perdidos>
+        </equipo>
+        <equipo="3">
+            <nombre>Colegio San José</nombre>
+            <puntos>6</puntos>
+            <partidos_jugados>4</partidos_jugados>
+            <partidos_ganados>2</partidos_ganados>
+            <partidos_perdidos>2</partidos_perdidos>
+        </equipo>
+         <equipo="4">
+            <nombre>Ribera & Campiña</nombre>
+            <puntos>5</puntos>
+            <partidos_jugados>4</partidos_jugados>
+            <partidos_ganados>1</partidos_ganados>
+            <partidos_perdidos>3</partidos_perdidos>
+        </equipo>
+         <equipo="5">
+            <nombre>IES Las Vegas</nombre>
+            <puntos>4</puntos>
+            <partidos_jugados>4</partidos_jugados>
+            <partidos_ganados>0</partidos_ganados>
+            <partidos_perdidos>4</partidos_perdidos>
+        </equipo>
+    </clasificacion>
+</liga_escolar_de_baloncesto>
