@@ -14,7 +14,7 @@
     <provedor>
         <nombre>Sport & Co</nombre>
         <pais>España</pais>
-        <descuento>null</descuento>
+        <descuento>null</descuento> // Significa que no hay descuento para este producto.
     </provedor>
 </producto>
 <producto="2">
