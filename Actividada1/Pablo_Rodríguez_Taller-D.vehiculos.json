@@ -1,0 +1,60 @@
+{
+    "vehiculos": {
+        "vehiculo": [
+            {
+                "-id": "1",
+                "matricula": "3676 SGH",
+                "marca": "Dacia",
+                "modelo": "208",
+                "kilometros": "16228",
+                "propietario": "Pablo Iglesias",
+                "observaciones": "Presión de ruedas < 2 bar"
+            },
+            {
+                "-id": "2",
+                "matricula": "9000 LSZ",
+                "marca": "Peugeot",
+                "modelo": "208",
+                "kilometros": "137798",
+                "propietario": "Carmen Martín",
+                "observaciones": "Recoge por la tarde"
+            },
+            {
+                "-id": "3",
+                "matricula": "6782 MJZ",
+                "marca": "Renault",
+                "modelo": "Focus",
+                "kilometros": "190974",
+                "propietario": "Elene Torres",
+                "observaciones": {}
+            },
+            {
+                "-id": "4",
+                "matricula": "8346 KBC",
+                "marca": "Toyota",
+                "modelo": "208",
+                "kilometros": "238179",
+                "propietario": "Adrián Romero",
+                "observaciones": "Vehículo de empresa"
+            },
+            {
+                "-id": "5",
+                "matricula": "8999 NZP",
+                "marca": "Toyota",
+                "modelo": "Ceed",
+                "kilometros": "134807",
+                "propietario": "Elena García",
+                "observaciones": "Golpe en puerta & retrovisor"
+            },
+            {
+                "-id": "6",
+                "matricula": "8838 MLZ",
+                "marca": "Kia",
+                "modelo": "Sandero",
+                "kilometros": "192698",
+                "propietario": "Elena Navarro",
+                "observaciones": {}
+            }
+        ]
+    }
+}
