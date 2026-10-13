@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<reparaciones>
+<reparaciones variante="TALLER-D"> <!--variante="TALLER-D"-->
     <vehiculo matricula="8346 KBC">
         <fecha>2026-04-03</fecha>
         <descripcion>Cambio de bateria</descripcion>

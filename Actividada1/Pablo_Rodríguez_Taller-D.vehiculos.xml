@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<vehiculos>
+<vehiculos variante="TALLER-D"> <!--variante="TALLER-D"-->
     <vehiculo matricula="3676 SGH">
         <marca>Dacia</marca>
         <modelo>208</modelo>
