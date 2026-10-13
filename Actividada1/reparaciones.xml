@@ -5,76 +5,76 @@
             <fecha>2026-04-03</fecha>
                 <descripcion>Cambio de bateria</descripcion>
                     <coste>438.50</coste>
-                        <garantia>Si</garantia>
+                        <garantia>True</garantia>
     </vehiculo>
     <vehiculo id="2">
         <matricula_vehiculo>6782 MJZ</matricula_vehiculo>
             <fecha>2026-04-12</fecha>
                 <descripcion>Cambio de aceite &amp; filtro</descripcion>
                     <coste>403.00</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo> 
     <vehiculo id="1">
         <matricula_vehiculo>8346 KBC</matricula_vehiculo>
             <fecha>2026-04-23</fecha>
                 <descripcion>Cambio de aceite &amp; filtro</descripcion>
                     <coste>230.50</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo> 
     <vehiculo id="3">
         <matricula_vehiculo>8838 MLZ</matricula_vehiculo>
             <fecha>2026-09-08</fecha>
                 <descripcion>Revision general</descripcion>
                     <coste>421.00</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo>
     <vehiculo id="1">
         <matricula_vehiculo>8346 KBC</matricula_vehiculo>
             <fecha>2026-07-26</fecha>
                 <descripcion>Cambio de aceite &amp; filtro</descripcion>
                     <coste>227.50</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo>
     <vehiculo id="4">
         <matricula_vehiculo>3676 SGH</matricula_vehiculo>
             <fecha>2026-09-13</fecha>
                 <descripcion>Cambio de bateria</descripcion>
                     <coste>336.20</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo>
     <vehiculo id="5">
         <matricula_vehiculo>9000 LSZ</matricula_vehiculo>
             <fecha>2026-09-27</fecha>
                 <descripcion>Cambio de bateria</descripcion>
                     <coste>266.20</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo>
     <vehiculo id="4">
         <matricula_vehiculo>3676 SGH</matricula_vehiculo>
             <fecha>2026-07-04</fecha>
                 <descripcion>Revision general</descripcion>
                     <coste>364.00</coste>
-                        <garantia>Si</garantia>
+                        <garantia>True</garantia>
     </vehiculo>
     <vehiculo id="5">
         <matricula_vehiculo>9000 LSZ</matricula_vehiculo>
             <fecha>2026-09-25</fecha>
                 <descripcion>Revision general</descripcion>
                     <coste>304.20</coste>
-                        <garantia>Si</garantia>
+                        <garantia>True</garantia>
     </vehiculo>
     <vehiculo id="2">
         <matricula_vehiculo>6782 MJZ</matricula_vehiculo>
             <fecha>2026-05-11</fecha>
                 <descripcion>Revision de luces</descripcion>
                     <coste>95.50</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo>
     <vehiculo id="3">
         <matricula_vehiculo>8838 MLZ</matricula_vehiculo>
             <fecha>2026-09-18</fecha>
                 <descripcion>Alineación &amp; equilibrado</descripcion>
                     <coste>372.00</coste>
-                        <garantia>No</garantia>
+                        <garantia>False</garantia>
     </vehiculo> 
 </reparaciones>
