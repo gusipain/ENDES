@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vehiculos>
+    <vehiculo id="1">
+        <matricula>3676 SGH</matricula>
+            <marca>Dacia</marca>
+                <modelo>208</modelo>
+                    <kilometros>16228</kilometros>
+                        <propietario>Pablo Iglesias</propietario>
+                            <observaciones>Presión de ruedas &lt; 2 bar</observaciones>
+    </vehiculo>
+    <vehiculo id="2">
+        <matricula>9000 LSZ</matricula>
+            <marca>Peugeot</marca>
+                <modelo>208</modelo>
+                    <kilometros>137798</kilometros>
+                        <propietario>Carmen Martín</propietario>
+                            <observaciones>Recoge por la tarde</observaciones>
+    </vehiculo>
+    <vehiculo id="3">
+        <matricula>6782 MJZ</matricula>
+            <marca>Renault</marca>
+                <modelo>Focus</modelo>
+                    <kilometros>190974</kilometros>
+                        <propietario>Elene Torres</propietario>
+                            <observaciones></observaciones>
+    </vehiculo>
+    <vehiculo id="4">
+        <matricula>8346 KBC</matricula>
+            <marca>Toyota</marca>
+                <modelo>208</modelo>
+                    <kilometros>238179</kilometros>
+                        <propietario>Adrián Romero</propietario>
+                            <observaciones>Vehículo de empresa</observaciones>
+    </vehiculo>
+    <vehiculo id="5">
+        <matricula>8999 NZP</matricula>
+            <marca>Toyota</marca>
+                <modelo>Ceed</modelo>
+                    <kilometros>134807</kilometros>
+                        <propietario>Elena García</propietario>
+                            <observaciones>Golpe en puerta &amp; retrovisor</observaciones>
+    </vehiculo>
+    <vehiculo id="6">
+        <matricula>8838 MLZ</matricula>
+            <marca>Kia</marca>
+                <modelo>Sandero</modelo>
+                    <kilometros>192698</kilometros>
+                        <propietario>Elena Navarro</propietario>
+                            <observaciones></observaciones>
+    </vehiculo>
+</vehiculos>
