@@ -2,7 +2,6 @@
     "reparaciones": {
         "vehiculo": [
             {
-                "-id": "1",
                 "matricula_vehiculo": "8346 KBC",
                 "fecha": "2026-04-03",
                 "descripcion": "Cambio de bateria",
@@ -10,7 +9,6 @@
                 "garantia": "True"
             },
             {
-                "-id": "2",
                 "matricula_vehiculo": "6782 MJZ",
                 "fecha": "2026-04-12",
                 "descripcion": "Cambio de aceite & filtro",
@@ -18,7 +16,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "1",
                 "matricula_vehiculo": "8346 KBC",
                 "fecha": "2026-04-23",
                 "descripcion": "Cambio de aceite & filtro",
@@ -34,7 +31,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "1",
                 "matricula_vehiculo": "8346 KBC",
                 "fecha": "2026-07-26",
                 "descripcion": "Cambio de aceite & filtro",
@@ -42,7 +38,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "4",
                 "matricula_vehiculo": "3676 SGH",
                 "fecha": "2026-09-13",
                 "descripcion": "Cambio de bateria",
@@ -50,7 +45,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "5",
                 "matricula_vehiculo": "9000 LSZ",
                 "fecha": "2026-09-27",
                 "descripcion": "Cambio de bateria",
@@ -58,7 +52,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "4",
                 "matricula_vehiculo": "3676 SGH",
                 "fecha": "2026-07-04",
                 "descripcion": "Revision general",
@@ -66,7 +59,6 @@
                 "garantia": "True"
             },
             {
-                "-id": "5",
                 "matricula_vehiculo": "9000 LSZ",
                 "fecha": "2026-09-25",
                 "descripcion": "Revision general",
@@ -74,7 +66,6 @@
                 "garantia": "True"
             },
             {
-                "-id": "2",
                 "matricula_vehiculo": "6782 MJZ",
                 "fecha": "2026-05-11",
                 "descripcion": "Revision de luces",
@@ -82,7 +73,6 @@
                 "garantia": "False"
             },
             {
-                "-id": "3",
                 "matricula_vehiculo": "8838 MLZ",
                 "fecha": "2026-09-18",
                 "descripcion": "Alineación & equilibrado",
